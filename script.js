@@ -47,8 +47,8 @@ function navbaranimation(){
             start:"top 0",
             end:"top -5%",
             scrub:true
-        }
-    })
+        },
+    }),
     
     gsap.to("#nav-part2 #links",{
         transform:"translateY(-100%)",
@@ -59,8 +59,8 @@ function navbaranimation(){
             start:"top 0",
             end:"top -5%",
             scrub:true
-        }
-    })
+        },
+    }),
 }
 navbaranimation()
 
