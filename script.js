@@ -60,7 +60,7 @@ function navbaranimation(){
             end:"top -5%",
             scrub:true
         },
-    }),
+    })
 }
 navbaranimation()
 
